@@ -1,0 +1,15 @@
+/Users/tunzale/Projects/Method.Constructor/Method.Constructor/obj/Debug/net6.0/Method.Constructor.csproj.AssemblyReference.cache
+/Users/tunzale/Projects/Method.Constructor/Method.Constructor/obj/Debug/net6.0/Method.Constructor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tunzale/Projects/Method.Constructor/Method.Constructor/obj/Debug/net6.0/Method.Constructor.AssemblyInfoInputs.cache
+/Users/tunzale/Projects/Method.Constructor/Method.Constructor/obj/Debug/net6.0/Method.Constructor.AssemblyInfo.cs
+/Users/tunzale/Projects/Method.Constructor/Method.Constructor/obj/Debug/net6.0/Method.Constructor.csproj.CoreCompileInputs.cache
+/Users/tunzale/Projects/Method.Constructor/Method.Constructor/bin/Debug/net6.0/Method.Constructor
+/Users/tunzale/Projects/Method.Constructor/Method.Constructor/bin/Debug/net6.0/Method.Constructor.deps.json
+/Users/tunzale/Projects/Method.Constructor/Method.Constructor/bin/Debug/net6.0/Method.Constructor.runtimeconfig.json
+/Users/tunzale/Projects/Method.Constructor/Method.Constructor/bin/Debug/net6.0/Method.Constructor.dll
+/Users/tunzale/Projects/Method.Constructor/Method.Constructor/bin/Debug/net6.0/Method.Constructor.pdb
+/Users/tunzale/Projects/Method.Constructor/Method.Constructor/obj/Debug/net6.0/Method.Constructor.dll
+/Users/tunzale/Projects/Method.Constructor/Method.Constructor/obj/Debug/net6.0/refint/Method.Constructor.dll
+/Users/tunzale/Projects/Method.Constructor/Method.Constructor/obj/Debug/net6.0/Method.Constructor.pdb
+/Users/tunzale/Projects/Method.Constructor/Method.Constructor/obj/Debug/net6.0/Method.Constructor.genruntimeconfig.cache
+/Users/tunzale/Projects/Method.Constructor/Method.Constructor/obj/Debug/net6.0/ref/Method.Constructor.dll
